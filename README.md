@@ -4,7 +4,7 @@
 
 You must complete **one** out of homeworks #4, #5, and #6.
 
-### Due Date: 10/27 by the start of class
+### Due Date: 11/1 by the end of the day
 
 ### GitHub Invitation Link
 
